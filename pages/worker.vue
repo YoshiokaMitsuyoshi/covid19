@@ -20,9 +20,9 @@ export default {
         {
           title: '新型コロナウイルス感染症対応緊急融資',
           link:
-            'https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/03/05/26.html',
+            'https://www.pref.aichi.jp/soshiki/kinyu/kinyu0304.html',
           body:
-            '新型コロナウイルス感染症により事業活動に影響を受けている中小企業等を対象とした緊急融資制度です。融資限度額は2億8千万円で、信用保証料を都が全額補助します。'
+            '愛知県：新型コロナウイルス感染症の影響を受ける中小企業への緊急つなぎ資金として「新型コロナウイルス感染症対策緊急つなぎ資金」を創設します'
         },
         {
           title: '新型コロナウイルスによる経営課題に関する専門家派遣',
@@ -33,9 +33,9 @@ export default {
         {
           title: '事業継続緊急対策（テレワーク）助成金',
           link:
-            'https://www.shigotozaidan.or.jp/koyo-kankyo/joseikin/kinkyutaisaku.html',
+            'https://www.pref.aichi.jp/soshiki/rodofukushi/telework.html',
           body:
-            '都内中堅・中小企業に対し、テレワークの導入に必要な機器やソフトウェア等の経費を助成します（限度額250万円、助成率10/10）。ぜひご活用ください。'
+            '愛知県：【県内企業の皆様へ】【2020年3月10日情報更新　厚生労働省助成金受付開始！】新型コロナウイルス感染症対策として「テレワーク」の活用をご検討ください！'
         },
         {
           title: '中小企業者等特別相談窓口',
@@ -47,9 +47,9 @@ export default {
         {
           title: '緊急労働相談ダイヤル',
           link:
-            'https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/02/26/22.html',
+            'https://jsite.mhlw.go.jp/aichi-roudoukyoku/news_topics/2019_covid-19soudan.html?fbclid=IwAR01RhExhMRTZ0CZTdwvfDEWVf_qABG8U2-QCnkw-77u9L2SiqL3SPp3aGk',
           body:
-            '新型コロナウイルスに関する休暇や休業の取り扱い、職場のハラスメントなどについての相談（東京都産業労働局　報道発表）'
+            '愛知労働局：新型コロナウイルス感染症の影響による特別労働相談窓口を開設しています'
         },
         {
           title: '新しいワークスタイルや企業活動の東京モデル「スムーズビズ」',
